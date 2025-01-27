@@ -1,0 +1,1 @@
+simple fetch - fetching dummy json data (user's to-do list) from external source and displaying it in a user-friendly format; "done" tasks are green, "to-do" tasks are red; clicking on a task changes its color
