@@ -1,0 +1,62 @@
+.completed {
+    color: green;
+}
+
+.to-do {
+    color: red;
+}
+
+.task {
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px black;
+    text-align: center;
+    cursor: pointer
+}
+
+.task:hover {
+    background-color: #d9d4d4;
+}
+
+.heading {
+    text-align: center;
+}
+
+.control {
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px black;
+    display: inline-block;
+}
+
+.dropdown-label {
+    margin: 5px;
+}
+
+.go-btn {
+    margin: 5px;
+    padding: 10px;
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.go-btn:hover {
+    background-color: #d9d4d4;
+    color: black;
+}
+
+select {
+    margin: 5px;
+    padding: 5px;
+    border: solid 2px black;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
